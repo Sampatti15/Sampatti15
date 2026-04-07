@@ -53,13 +53,6 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" <a>sampatti15.borse@gmail.com<a/>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" <a><a>https://www.linkedin.com/in/sampatti-borse-0441b5318/overlay/background-photo?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_member_background_photo%3BRv%2Bndh2oTqCFSkGD8OkQpg%3D%3D<a/> />
-</div>
-
-###
-
-<div align="left">
 </div>
 
 ###
