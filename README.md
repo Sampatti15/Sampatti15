@@ -47,7 +47,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://github.com/DebalinaShaw/DebalinaShaw"  />
+   <img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/c47f5345-f987-4448-8238-ffdb8ca848a0" />
 </div>
 
 ###
@@ -68,8 +68,3 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=wave&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/Sampatti15/Sampatti15/output/snake.svg" alt="Snake animation" />
-
-###
