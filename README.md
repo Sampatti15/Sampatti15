@@ -19,6 +19,7 @@ https://sampatti-portfolio.netlify.app/
 
 ###
 My LinkedIn Profile:
+https://www.linkedin.com/in/sampatti-borse-0441b5318/
 ###
 ###
 
