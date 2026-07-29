@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Sampatti Borse and I am a Web developer and Machine Learning Learner.</p>
+<p align="left">My name is Sampatti Borse and I am a Web developer and Machine Learning Practitioner.</p>
 
 ###
 
